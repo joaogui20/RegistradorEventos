@@ -1,0 +1,10 @@
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\bin\Debug\VBNET_KeyLogger.exe.config
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\bin\Debug\VBNET_KeyLogger.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\bin\Debug\VBNET_KeyLogger.pdb
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\bin\Debug\VBNET_KeyLogger.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\obj\Debug\VBNET_KeyLogger.frmEventos.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\obj\Debug\VBNET_KeyLogger.Resources.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\obj\Debug\VBNET_KeyLogger.vbproj.GenerateResource.Cache
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\obj\Debug\VBNET_KeyLogger.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\obj\Debug\VBNET_KeyLogger.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\VBNET_KeyLogger\VBNET_KeyLogger\obj\Debug\VBNET_KeyLogger.pdb
